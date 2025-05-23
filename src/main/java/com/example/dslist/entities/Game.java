@@ -1,0 +1,4 @@
+package com.example.dslist.entities;
+
+public class Game {
+}
